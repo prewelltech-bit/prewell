@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Marketing Solutions",
+    "desc": "Data-driven marketing strategies that grow your brand, boost visibility, and increase conversions across all digital platforms.",
+    "icon": "🎯",
+    "category": "Marketing",
+    "details": "We create result-oriented digital marketing campaigns using SEO, social media, paid ads, and content strategies to help businesses reach the right audience and achieve measurable growth.",
+    "features": ["SEO Optimization", "Social Media Marketing", "Google & Meta Ads", "Content Marketing", "Lead Generation", "Analytics & Reporting"],
+    "clients": "100+",
+    "success": "250+"
+  },
+  {
+    "id": 2,
+    "title": "Website & Web App Development",
+    "desc": "High-performance, scalable websites and web applications built for speed, security, and user experience.",
+    "icon": "💻",
+    "category": "Development",
+    "details": "We design and develop modern, responsive, and secure websites and web apps that help businesses operate efficiently and engage users effectively.",
+    "features": ["Responsive Design", "Fast Loading Speed", "Custom Development", "Secure Architecture", "CMS Integration", "Maintenance Support"],
+    "clients": "80+",
+    "success": "150+"
+  },
+  {
+    "id": 3,
+    "title": "Branding & Creative Design",
+    "desc": "Powerful visual identities that make your brand stand out and connect with your audience.",
+    "icon": "🎨",
+    "category": "Design",
+    "details": "We craft unique brand identities, logos, and creative designs that reflect your brand values and leave a lasting impression.",
+    "features": ["Logo Design", "Brand Guidelines", "Social Media Creatives", "Print Design", "Ad Creatives", "Visual Identity"],
+    "clients": "70+",
+    "success": "120+"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design",
+    "desc": "User-centered designs that enhance usability, engagement, and customer satisfaction.",
+    "icon": "🧩",
+    "category": "Design",
+    "details": "We design intuitive and visually appealing interfaces that improve user experience and maximize interaction across web and mobile platforms.",
+    "features": ["User Research", "Wireframing", "Prototyping", "Mobile-First Design", "Usability Testing", "Interaction Design"],
+    "clients": "60+",
+    "success": "100+"
+  },
+  {
+    "id": 5,
+    "title": "Innovative Digital Solutions",
+    "desc": "Smart, future-ready solutions tailored to your business challenges.",
+    "icon": "🚀",
+    "category": "Technology",
+    "details": "We provide custom digital solutions using the latest technologies to automate processes, improve efficiency, and drive business innovation.",
+    "features": ["Custom Software", "Automation Tools", "AI Integration", "Cloud Solutions", "Business Systems", "Digital Transformation"],
+    "clients": "50+",
+    "success": "90+"
+  }
+]
